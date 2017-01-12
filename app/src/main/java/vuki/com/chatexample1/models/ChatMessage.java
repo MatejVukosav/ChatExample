@@ -1,4 +1,4 @@
-package vuki.com.chatexample1;
+package vuki.com.chatexample1.models;
 
 /**
  * Created by mvukosav on 12.9.2016..

@@ -10,6 +10,8 @@ import android.widget.Toast;
 
 import java.util.List;
 
+import vuki.com.chatexample1.models.ChatMessage;
+
 /**
  * Created by mvukosav on 12.9.2016..
  */

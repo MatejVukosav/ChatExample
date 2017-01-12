@@ -31,4 +31,16 @@ dependencies {
 
     //CHAT VIEW
     compile 'me.himanshusoni.chatmessageview:chat-message-view:1.0.3'
+
+    //MESSAGING
+    compile 'com.google.firebase:firebase-messaging:9.4.0'
+    compile 'com.google.android.gms:play-services-base:9.4.0'
+    //ANALYTICS
+    compile 'com.google.firebase:firebase-core:9.4.0'
+
+    //RETROFIT2 and OKHTTP3
+    compile 'com.squareup.retrofit2:retrofit:2.0.2'
+    //GSON
+    compile 'com.squareup.retrofit2:converter-gson:2.0.1'
 }
+apply plugin: 'com.google.gms.google-services'
